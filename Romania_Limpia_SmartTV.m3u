@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",7TV
+https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:-1 group-title="Noticias",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Antena Cook si Joaca
+http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",B1 TV
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 group-title="Regional",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:-1 group-title="General",Canal 33
+https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/chunklist_w1456597134_b680000.m3u8
+#EXTINF:-1 group-title="General",CBN Family Romania
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 group-title="Regional",Cornea TV
+http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Regional",Cromtel TV
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+#EXTINF:-1 group-title="Regional",EST TV
+http://89.38.8.130:39435
+#EXTINF:-1 group-title="General",HD 365
+https://netstreaming.eu:8080/hls/hd365.m3u8
+#EXTINF:-1 group-title="Regional",Iasi TV Life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+#EXTINF:-1 group-title="Regional",Infinit TV
+http://webmobile.xdev.ro:81/tv6/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",Info HD
+https://netstreaming.eu:8080/hls/InfoHd.m3u8
+#EXTINF:-1 group-title="Regional",Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:-1 group-title="General",Kapital TV
+http://84.247.79.238:1935/kapital/kapital/kapital.stream/playlist.m3u8
+#EXTINF:-1 group-title="Musica",Lira TV
+https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/chunklist_w98704019.m3u8
+#EXTINF:-1 group-title="Musica",Magic TV
+https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8?publisher=83
+#EXTINF:-1 group-title="Musica",Music Channel Romania
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",Nasul TV
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regional",NEst TV
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:-1 group-title="Regional",Nova TV Brasov
+http://novapress.ro:1935/live/nova/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",Profit News
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",Realitatea TV
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:-1 group-title="Regional",Somax TV
+http://webmobile.xdev.ro:81/tv12/playlist.m3u8
+#EXTINF:-1 group-title="Viajes",TravelMix
+http://89.38.8.131:39520
+#EXTINF:-1 group-title="Regional",TV SE
+http://89.38.8.130:39419
+#EXTINF:-1 group-title="Regional",TVPlus Suceava
+http://85.186.146.34:8080
+#EXTINF:-1 group-title="TVR",TVR Craiova
+https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/chunklist_b4096000.m3u8
+#EXTINF:-1 group-title="TVR",TVR International
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTINF:-1 group-title="Regional",TVSat
+http://89.38.8.130:39443
+#EXTINF:-1 group-title="Musica",UTV Romania
+http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",VOYO News
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1 group-title="Regional",VP TV
+http://89.38.8.130:3943
